@@ -1,0 +1,1 @@
+As seen on: [https://bitsquid.blogspot.com.ar/2016/01/hot-reloadable-javascript-batman.html](https://bitsquid.blogspot.com.ar/2016/01/hot-reloadable-javascript-batman.html)
